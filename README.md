@@ -1,1 +1,1 @@
-![moe](./kuroneko.gif){: width="100%"}
+<img src="kuroneko.gif" width="300" height="300">
